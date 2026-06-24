@@ -1,6 +1,5 @@
 package com.pedromiguel.aprendendospring;
 
-import com.pedromiguel.aprendendospring.infrastructure.entity.Usuario;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
